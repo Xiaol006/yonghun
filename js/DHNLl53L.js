@@ -1,0 +1,2 @@
+import{h as s,k as _,j as c,M as p,m as e,p as u,I as m,u as i,J as a,K as o}from"./n09CRA4h.js";const f=s({__name:"PC",setup(r){return _(),c(),p({}),(t,n)=>(e(),u("div"))}}),k=s({__name:"H5",setup(r){return _(),c(),p({}),(t,n)=>(e(),u("div"))}}),x=s({__name:"index",setup(r){let t=m();return(n,l)=>i(t).getIsDesktop?(e(),a(o(f),{key:0})):(e(),a(o(k),{key:1}))}});export{x as default};
+//# sourceMappingURL=DHNLl53L.js.map
